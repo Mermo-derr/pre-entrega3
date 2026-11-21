@@ -1,0 +1,12 @@
+# Claves de API
+.env
+
+# Entorno virtual
+.venv/
+
+# Base vectorial persistida (se regenera con la ingesta)
+vectorstore/
+
+# Caché de Python
+__pycache__/
+*.pyc
